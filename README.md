@@ -1,8 +1,11 @@
 # 📝 Markdown to HTML Live Converter
 
-![JavaScript](https://img.shields.io)
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
+![JavaScript](<img width="500" height="500" alt="javascript" src="https://github.com/user-attachments/assets/4396535d-8d5e-41f2-bd68-ece9ffaa1973" />
+)
+![HTML5](<img width="500" height="500" alt="html" src="https://github.com/user-attachments/assets/69f2477c-dcfd-4398-98ba-a558c9dbf625" />
+)
+![CSS3](<img width="500" height="500" alt="css" src="https://github.com/user-attachments/assets/7eec58e4-73e8-42c4-acfb-afe9e5bfd72b" />
+)
 
 A sleek, **real-time Markdown parser** built with Vanilla JavaScript and Regular Expressions. This tool allows users to type Markdown and instantly see both the **Rendered Preview** and the **Raw HTML code**.
 
